@@ -1,6 +1,14 @@
 venv/
 .env
 __pycache__/
-data/uploads/*
-data/chroma_db/*
+*.pyc
+
+data/chromadb/*
+!data/chromadb/.gitkeep
+
+uploads/*
+!uploads/rendered/
+uploads/rendered/*
+!uploads/rendered/.gitkeep
+
 .claude/

@@ -1,0 +1,10 @@
+streamlit>=1.38
+python-dotenv>=1.0
+Pillow>=10.4
+PyMuPDF>=1.24
+torch>=2.3
+transformers>=4.44
+einops>=0.8
+timm>=1.0
+ollama>=0.3
+chromadb>=0.5
